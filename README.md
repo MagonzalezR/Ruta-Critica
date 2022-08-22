@@ -1,5 +1,5 @@
 # Ruta-Critica
-##Programa que calcula la ruta critica de un grafo
+## Programa que calcula la ruta critica de un grafo
 El programa se hizo utilizando Apache Netbeans
 ##Funcionamiento
 El programa requiere dibujar un grafo, para ello se deben marcar sus nodos en el canvas, estos aparecerán con un indicador único (del 1 al 19)
